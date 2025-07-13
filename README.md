@@ -50,7 +50,6 @@
 ### 3. Storyboard Designing  
 <img width="985" height="819" alt="Storyboard 1" src="https://github.com/user-attachments/assets/eb752596-145f-4265-a9e5-9bee9dea0de6" />  
 <img width="1006" height="692" alt="Storyboard 2" src="https://github.com/user-attachments/assets/4c9f765c-a9c2-4311-b25b-1aafa2cb9eb6" />  
-<img width="894" height="696" alt="Storyboard 3" src="https://github.com/user-attachments/assets/e15c0539-7b2f-4a8c-ab09-fe0ee2160288" />
 
 ### 4. Prototype Design  
 <img width="1870" height="921" alt="Prototype 1" src="https://github.com/user-attachments/assets/4d2b760b-3f67-451d-94b8-d69adefe4e46" />  
